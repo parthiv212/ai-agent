@@ -122,6 +122,6 @@ Agent: Lead captured successfully 🎉
 
 ---
 
-## Parhiv
+## Parthiv
 
 Built as part of a GenAI assignment using LangGraph.
