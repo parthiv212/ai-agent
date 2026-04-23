@@ -19,7 +19,7 @@ A conversational AI agent built using LangGraph that handles user queries, detec
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/autostream-agent.git
+git clone https://github.com/parthiv212/ai-agent.git
 cd autostream-agent
 ```
 
