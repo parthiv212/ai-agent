@@ -84,19 +84,18 @@ You can maintain user sessions using phone numbers as unique IDs and store state
 autostream-agent/
 │
 ├── main.py
-├── requirements.txt
-├── README.md
-│
 ├── agent/
 │   ├── graph.py
 │   ├── state.py
 │   ├── nodes.py
-│   ├── intent.py
-│   ├── rag.py
-│   └── tools.py
+│   ├── tools.py
+│   └── intent.py
 │
-└── data/
-    └── knowledge.json
+├── data/
+│   └── knowledge.json
+│
+├── requirements.txt
+└── README.md
 ```
 
 ---
